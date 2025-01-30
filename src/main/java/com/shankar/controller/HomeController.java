@@ -20,6 +20,8 @@ import jakarta.servlet.http.HttpSession;
 
 @Controller
 public class HomeController {
+
+	//welcome to home controller
 	/*
 	 * @RequestMapping("/home")
 	 *  public String renderHome()
